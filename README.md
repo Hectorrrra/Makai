@@ -4,7 +4,7 @@
 
 My role as a software engineer was to implement the functionality of the blogs admin form as well as the stands form I was required to handle all the coding from the backend to the frontend for blogs while with stands I just took care for the frontend. Below is a list of the actions I took to accomplish my responsibilities.
 
-●Implemented content management for Blogs. Providing the user with ability to sort, filter, paginate & manage
+● Implemented content management for Blogs. Providing the user with ability to sort, filter, paginate & manage
 their blog content.
 
 ● Developed a form using React and Formik to create blog posts and new stands with validation and error handling.
