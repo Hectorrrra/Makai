@@ -4,17 +4,17 @@ using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.RazorPages;
 using Microsoft.Build.Framework;
 using Microsoft.Extensions.Logging;
-using Sabio.Models;
-using Sabio.Models.Domain.Blogs;
-using Sabio.Models.Requests.Blogs;
-using Sabio.Services;
-using Sabio.Web.Controllers;
-using Sabio.Web.Models.Responses;
+using Makai.Models;
+using Makai.Models.Domain.Blogs;
+using Makai.Models.Requests.Blogs;
+using Makai.Services;
+using Makai.Web.Controllers;
+using Makai.Web.Models.Responses;
 using System;
 using System.Collections.Generic;
 using System.Transactions;
 
-namespace Sabio.Web.Api.Controllers
+namespace Makai.Web.Api.Controllers
 {
     [Route("api/blogs")]
     [ApiController]
