@@ -1,9 +1,9 @@
-﻿using Sabio.Models;
-using Sabio.Models.Domain.Blogs;
-using Sabio.Models.Requests.Blogs;
+﻿using Makai.Models;
+using Makai.Models.Domain.Blogs;
+using Makai.Models.Requests.Blogs;
 using System.Collections.Generic;
 
-namespace Sabio.Services
+namespace Makai.Services
 {
     public interface IBlogService
     {
