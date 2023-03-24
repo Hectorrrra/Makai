@@ -1,11 +1,11 @@
 ﻿using Microsoft.AspNetCore.Mvc;
-using Sabio.Data;
-using Sabio.Data.Providers;
-using Sabio.Models;
-using Sabio.Models.Domain;
-using Sabio.Models.Domain.Blogs;
-using Sabio.Models.Requests.Blogs;
-using Sabio.Services.Interfaces;
+using Makai.Data;
+using Makai.Data.Providers;
+using Makai.Models;
+using Makai.Models.Domain;
+using Makai.Models.Domain.Blogs;
+using Makai.Models.Requests.Blogs;
+using Makai.Services.Interfaces;
 using System;
 using System.Collections.Generic;
 using System.Data;
@@ -15,7 +15,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Sabio.Services
+namespace Makai.Services
 {
     public class BlogService : IBlogService
     {
